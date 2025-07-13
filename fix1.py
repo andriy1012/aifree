@@ -15,7 +15,7 @@ st.set_page_config(
 # OPENROUTER CLIENT (hard‑coded API‑key)
 # --------------------------------------------------
 # ⚠️  Ganti nilai di bawah dengan API‑key OpenRouter Anda
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
